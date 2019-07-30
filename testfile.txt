@@ -1,1 +1,2 @@
-This is a test file for practice on github
+This is a test file for practice on github and solve the merge conflict 
+
