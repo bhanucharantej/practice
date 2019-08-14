@@ -1,2 +1,0 @@
-#This is a test file in branch1 and This is a test file in branch2
-
